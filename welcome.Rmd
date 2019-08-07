@@ -1,5 +1,4 @@
 ---
----
 
 # [Developing Data Products](index.html)
 
